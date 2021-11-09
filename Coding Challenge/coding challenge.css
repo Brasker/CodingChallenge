@@ -1,0 +1,70 @@
+body{
+  background-image: url("immagini/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#corpo{
+  margin: 1% 15% 10%;
+  padding: 7% 40px 10%;
+  background: #000000;
+  opacity: 0.7;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#logo{
+  margin: 1% 41% 1%;
+  width: 180px;
+  height: 90px;
+  background-repeat: no-repeat;
+  background-image: url(immagini/logo.png);
+  background-size: contain;
+}
+
+#Taking{
+  text-align: center;
+  font-size: 40px;
+  color: rgb(0, 255, 0);
+  font-family: 'Roboto', sans-serif;
+}
+
+#button{
+  padding: 7px;
+  background-color: rgb(0, 255, 0);
+  text-align: center;
+}
+
+#mezzi{
+  font-size: 20px;
+  padding-top: 20px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.info{
+  font-size: 12px;
+}
+
+#c1{
+  margin-top: 5px;
+  width: 200px;
+  height: 15px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: orange;
+}
+
+#c2{
+  margin-top: 5px;
+  width: 450px;
+  height: 15px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: rgb(0, 255, 0);
+}
+
+#c3{
+  margin-top: 5px;
+  width: 70px;
+  height: 15px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: rgb(255, 0, 0);
+}
